@@ -1,11 +1,11 @@
-# Tauri app with React + TypeScript + Material UI
+### Tauri app with React + TypeScript + Material UI
 
 Basically a boilerplate
 
-### try out
+#### try out
 
 `yarn tauri dev`
 
-### package
+#### package
 
 `yarn tauri build`
