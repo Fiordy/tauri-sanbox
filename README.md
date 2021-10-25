@@ -2,6 +2,10 @@
 
 Basically a boilerplate
 
-### yarn tauri dev
+### try out
 
-## yarn tauri build
+`yarn tauri dev`
+
+### package
+
+`yarn tauri build'
