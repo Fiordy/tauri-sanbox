@@ -8,4 +8,4 @@ Basically a boilerplate
 
 ### package
 
-`yarn tauri build'
+`yarn tauri build`
